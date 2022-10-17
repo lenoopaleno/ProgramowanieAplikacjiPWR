@@ -1,0 +1,4 @@
+img{width: 100px;}
+body{background: rgb(9,9,121); background: linear-gradient(90deg, rgb(0, 0, 78) 22%, rgb(106, 1, 1) 83%);}
+p{color: white; font-family: Arial;}
+a{color: inherit; text-decoration: none; text-transform: uppercase; font-family: Arial; color: white;}
